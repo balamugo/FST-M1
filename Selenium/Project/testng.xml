@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite">
+    <test name="Test">
+        <classes>
+            <class name="activities.Activity1"/>
+            <class name="activities.Activity2"/>
+            <class name="activities.Activity3"/>
+            <class name="activities.Activity5"/>
+            <class name="activities.Activity6"/>
+            <class name="activities.Activity7"/>
+            <class name="activities.Activity9"/>
+            <class name="activities.Activity10"/>
+            <class name="liveProjects.Activity1"/>
+            <class name="liveProjects.Activity2"/>
+            <class name="liveProjects.Activity3"/>
+            <class name="liveProjects.Activity4"/>
+            <class name="liveProjects.Activity5"/>
+            <class name="liveProjects.Activity6"/>
+            <class name="liveProjects.Activity7"/>
+            <class name="liveProjects.Activity8"/>
+            <class name="liveProjects.Activity9"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
+
+<!--
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="softwaretestingmaterial">
+    <test name="testngTest">
+        <classes>
+            <class name="packageName.ClassName" />
+            <class name="activities.Activity1" />
+            <class name="activities.Activity2"/> >
+        </classes>
+    </test>
+</suite>
+-->
